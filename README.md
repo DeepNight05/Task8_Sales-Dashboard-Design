@@ -1,7 +1,14 @@
 # Task4_Sales-Dashboard-Design
 # Sales Dashboard Project
 
-This project contains an interactive Tableau dashboard that visualizes sales data over time, across different regions and product categories.
+## Key Insights
+
+1. Sales peaked in **November 2018** across all regions.
+2. The **West region** had the **highest overall sales**.
+3. The **South region** lags behind in sales despite having **mid-range profits**.
+4. The **Central region** shows **moderate sales** but **low profit margins**, suggesting possible cost issues.
+5. The **Technology** category contributes the **most profit per sale**.
+6. **Office Supplies** has the **lowest sales** but demonstrates **stable performance across months**.
 
 ## Dashboard Overview
 
